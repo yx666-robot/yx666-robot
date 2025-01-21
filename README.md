@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yx666-robot
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to build my own website & use Github
-- 😄 Pronouns: he
+- 😄 Pronouns: him
 - ⚡ Fun fact: ...
 - To be continued……
